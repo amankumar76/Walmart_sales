@@ -35,11 +35,3 @@ The dataset used in this analysis contains several fields, including city, branc
 
 - `walmart_sales.ipynb`: Jupyter Notebook containing all the analysis code and visualizations.
 
-
-## Setup and Installation
-
-Ensure you have Python installed on your system. You can install the necessary dependencies by running:
-
-```bash
-pip install -r requirements.txt
-
