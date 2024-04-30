@@ -2,10 +2,10 @@
 
 Walmart Sales Analysis:
 You have been given a data set to analyse and answer the following questions: 
-Data Set: Walmart Sales 
-A. Analyze the performance of sales and revenue at the city and branch level.
-B. What is the average price of an item sold at each branch of the city.
-C. Analyze the performance of sales and revenue, Month over Month across the Product line, Gender, and Payment Method, and identify the focus areas to get better sales for April 2019. 
+- Data Set: Walmart Sales 
+- A. Analyze the performance of sales and revenue at the city and branch level.
+- B. What is the average price of an item sold at each branch of the city.
+- C. Analyze the performance of sales and revenue, Month over Month across the Product line, Gender, and Payment Method, and identify the focus areas to get better sales for April 2019. 
 
 # Walmart Sales Analysis
 
